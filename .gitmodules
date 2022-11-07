@@ -1,0 +1,3 @@
+[submodule "vue-storefront-1"]
+	path = vue-storefront-1
+	url = https://github.com/vuestorefront/vue-storefront-1.git
