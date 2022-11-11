@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8597d2bd-1b7d-4e51-bda2-a20a57ccce51" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/vue-storefront-api/config/custom-environment-variables.json" beforeDir="false" afterPath="$PROJECT_DIR$/vue-storefront-api/config/custom-environment-variables.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-storefront-api/docker-compose.nodejs.yml" beforeDir="false" afterPath="$PROJECT_DIR$/vue-storefront-api/docker-compose.nodejs.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-storefront-api/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/vue-storefront-api/docker-compose.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-storefront/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/vue-storefront/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-storefront/src/modules/client.ts" beforeDir="false" afterPath="$PROJECT_DIR$/vue-storefront/src/modules/client.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-storefront/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/vue-storefront/tsconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-storefront/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/vue-storefront/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
