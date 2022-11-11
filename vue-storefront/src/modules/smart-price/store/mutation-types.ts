@@ -1,0 +1,2 @@
+export const SET_SMART_PRICES = 'SET_SMART_PRICES'
+export const ADD_SMART_PRICE = 'ADD_SMART_PRICE'
