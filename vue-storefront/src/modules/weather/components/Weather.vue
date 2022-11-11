@@ -39,7 +39,18 @@ export default {
       weatherFutureDate: false,
       weatherData: false,
       dateInputVisible: false,
-      WEATHER
+      WEATHER,
+      array1: [
+        [
+          []
+        ]
+      ]
+    }
+  },
+  watch: {
+    // whenever question changes, this function will run
+    array1 (newArray, oldArray) {
+      console.log(oldArray)
     }
   },
   mounted () {
@@ -62,6 +73,9 @@ export default {
       this.dateInputVisible = value
     },
     handleActiveInput: function (type) {
+      this.array1[0] = [1,2,3]
+      console.log(this.array1)
+
       if (type !== WEATHER.FUTURE) {
         this.setDateInputVisible(false)
       }
